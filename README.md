@@ -1,4 +1,18 @@
-# Drakengard — port nativo para PC
+<h1 align="center">Drakengard — port nativo para PC</h1>
+
+<p align="center"><i>Drakengard (PS2, PAL): port nativo para PC por recompilação estática (PS2Recomp). Em desenvolvimento (o port ainda vai começar).</i></p>
+
+<p align="center">
+  <a href="https://github.com/otavix010/drakengard-pc/commits/main"><img alt="Última atualização" src="https://img.shields.io/github/last-commit/otavix010/drakengard-pc?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o"></a>
+  <a href="https://github.com/otavix010/otavix-launcher/releases/latest"><img alt="Baixar o Otavix Launcher" src="https://img.shields.io/badge/Otavix%20Launcher-baixar-b00020"></a>
+</p>
+
+<p align="center">
+  <a href="#estado-atual-em-desenvolvimento">Estado atual: em desenvolvimento</a> ·
+  <a href="#o-que-você-vai-precisar">O que você vai precisar</a> ·
+  <a href="#licença-e-créditos">Licença e créditos</a> ·
+  <a href="#english-summary">English</a>
+</p>
 
 > **Projeto de fãs, sem fins lucrativos.** *Drakengard* (*Drag-On Dragoon*) é marca registrada da Square Enix; este projeto não tem relação com a Square Enix. Este repositório **não contém o jogo**: você vai precisar da **sua própria cópia** do DVD (a versão europeia, **SLES-52322**).
 
