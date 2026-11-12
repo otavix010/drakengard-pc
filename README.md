@@ -1,6 +1,6 @@
 <h1 align="center">Drakengard — port nativo para PC</h1>
 
-<p align="center"><i>Drakengard (PS2, PAL): port nativo para PC por recompilação estática (PS2Recomp). Em desenvolvimento (o port ainda vai começar).</i></p>
+<p align="center"><i>Drakengard (PS2, NTSC-U SLUS-20732): port nativo para PC por recompilação estática (PS2Recomp). Em desenvolvimento (o port ainda vai começar).</i></p>
 
 <p align="center">
   <a href="https://github.com/otavix010/drakengard-pc/commits/main"><img alt="Última atualização" src="https://img.shields.io/github/last-commit/otavix010/drakengard-pc?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o"></a>
@@ -18,7 +18,7 @@
   <a href="#english-summary">English</a>
 </p>
 
-> **Projeto de fãs, sem fins lucrativos.** *Drakengard* (*Drag-On Dragoon*) é marca registrada da Square Enix; este projeto não tem relação com a Square Enix. Este repositório **não contém o jogo**: você vai precisar da **sua própria cópia** do DVD (a versão europeia, **SLES-52322**).
+> **Projeto de fãs, sem fins lucrativos.** *Drakengard* (*Drag-On Dragoon*) é marca registrada da Square Enix; este projeto não tem relação com a Square Enix. Este repositório **não contém o jogo**: você vai precisar da **sua própria cópia** do DVD (a versão americana, **SLUS-20732**).
 
 Port nativo para PC por **recompilação estática** com o motor PS2 próprio do projeto, no mesmo esquema dos outros ports de PlayStation 2 do Otavix: o seu PC gera e compila o jogo a partir da sua ISO.
 
@@ -40,7 +40,7 @@ Quando o port começar a rodar, este README ganha os requisitos, o desempenho me
 
 ## O que você vai precisar
 
-- A ISO da versão europeia: Redump **"Drakengard (Europe) (En,Fr,De,Es,It)"** (SLES-52322).
+- A ISO da versão americana: Redump **"Drakengard (USA)"** (SLUS-20732).
 - Windows 10/11 de 64 bits, um processador x86-64 (AVX2 ajuda, mas não é obrigatório) e espaço para a geração (alguns GB).
 
 ## Licença e créditos
@@ -51,4 +51,4 @@ Quando o port começar a rodar, este README ganha os requisitos, o desempenho me
 
 ## English summary
 
-A **native PC port** of *Drakengard* (PlayStation 2, 2004) by **static recompilation** with the project's own PS2 engine. **Work in progress: the port has not started yet** — we are first strengthening the shared PS2 base with the first four games. You will need your own copy of the **European** release (SLES-52322, Redump "Drakengard (Europe) (En,Fr,De,Es,It)") as an .iso. *Drakengard* (*Drag-On Dragoon*) is a trademark of Square Enix; this is a non-commercial fan project, not affiliated with or endorsed by Square Enix.
+A **native PC port** of *Drakengard* (PlayStation 2, 2004) by **static recompilation** with the project's own PS2 engine. **Work in progress: the port has not started yet** — we are first strengthening the shared PS2 base with the first four games. You will need your own copy of the **American** release (SLUS-20732, Redump "Drakengard (USA)") as an .iso. *Drakengard* (*Drag-On Dragoon*) is a trademark of Square Enix; this is a non-commercial fan project, not affiliated with or endorsed by Square Enix.
